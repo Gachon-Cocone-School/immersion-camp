@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/8be1ef8a-87d3-46d6-b914-af968cc0fc2a)
+
 # 가천코코네스쿨 2025년 1학기 몰입캠프 - 6기
 
 본 프로그램은 6기 학생들이 각자의 문제를 발굴하고 정의하는 과정을 돕기 위해, 정규 수업 외 별도의 집중 캠프 형태로 진행됩니다.
