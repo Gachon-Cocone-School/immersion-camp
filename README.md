@@ -17,8 +17,12 @@
 
 ### 2/28(목) 10:00 - 17:00 
 
-** 프리보딩 **
+### 프리보딩 자료
+#### Half Baked 발표 자료
+- [GCS6기 Half Baked 1](files/GCS6기%20Half%20Baked%201.pdf)
+- [GCS6기 Half Baked 2](files/GCS6기%20Half%20Baked%202.pdf)
 
+---
 
 ### 3/7(금) 10:00 - 17:00  
 
