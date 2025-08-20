@@ -32,10 +32,10 @@
 
 #### 8월 22일 (금)
 
-- **10:00-11:30:** Team Workshop #1 (김남주)
-- **11:30-12:00:** GCS 일하는 방식 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1XaBPRkB-lNklN6bpCbXaVxt5G1APhh2xh9B--ELOQS4/edit?slide=id.g3768ef1e231_0_0#slide=id.g3768ef1e231_0_0)]
+- **10:00-12:00:** Team Workshop #1 (김남주)
 - **12:00-13:00:** 점심 식사 (도시락) - _학교에서 제공_
-- **13:00-15:30:** Team Workshop #2 (김남주)
+- **13:00-13:30:** GCS 일하는 방식 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1XaBPRkB-lNklN6bpCbXaVxt5G1APhh2xh9B--ELOQS4/edit?slide=id.g3768ef1e231_0_0#slide=id.g3768ef1e231_0_0)]
+- **13:30-15:30:** Team Workshop #2 (김남주)
 - **15:30-17:00:** GCS 선배와의 대화 (큐닷, 마히, 북블라, 제타스코프)
 - **17:00-17:30:** 기업가 정신 / Wrap-up (최재홍)
 
