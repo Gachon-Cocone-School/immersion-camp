@@ -25,7 +25,7 @@
 
 - **10:00-10:30:** 학장님 환영사 (장대익) [[PDF](https://drive.google.com/file/d/1mZx97r3tEmcOEtUoSWZHpibB9mk9TvF7/view?usp=drive_link)]
 - **10:30-11:00:** OT / 교원 및 과목 소개 (교수진/행정실)
-- **11:00-12:00:** 7기 자기 소개
+- **11:00-12:00:** 7기 자기 소개 [[구글 슬라이드](https://docs.google.com/presentation/d/1ZPaufqBEWVzl0gvq6qzKFB9ZOp3rZ6jG/edit?slide=id.p3#slide=id.p3)]
 - **12:00-13:30:** 점심 식사 (Pizza 파티) - _학교에서 제공_
 - **13:30-14:30:** 가설 수립 및 검증 (이민섭)
 - **14:30-16:00:** 사회적 가치 페스타 및 Social Transformation / 개인SNS(링크드인) 활용법 (홍원준)
