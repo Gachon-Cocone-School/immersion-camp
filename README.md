@@ -17,6 +17,8 @@
 
 ## 몰입 캠프 일정
 
+[[일정표 - 구글시트 버전](https://docs.google.com/spreadsheets/d/1PGWBaDwGRvTO6FyKbXaUWZdkt9lrtVsDPfFAg3E6ld0/edit?gid=371050693#gid=371050693)]
+
 ### 프리보딩 캠프 일정
 
 #### 8월 21일 (목)
