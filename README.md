@@ -28,7 +28,7 @@
 - **11:00-12:00:** 7기 자기 소개 [[구글 슬라이드](https://docs.google.com/presentation/d/1ZPaufqBEWVzl0gvq6qzKFB9ZOp3rZ6jG/edit?slide=id.p3#slide=id.p3)]
 - **12:00-13:30:** 점심 식사 (Pizza 파티) - _학교에서 제공_
 - **13:30-14:30:** 가설 수립 및 검증 (이민섭)
-- **14:30-16:00:** 사회적 가치 페스타 및 Social Transformation / 개인SNS(링크드인) 활용법 (홍원준)
+- **14:30-16:00:** 사회적 가치 페스타 및 Social Transformation / 개인SNS(링크드인) 활용법 (홍원준) [[구글 슬라이드](https://docs.google.com/presentation/d/1elhl0_wx29LtD63dSubwuu2yLAcguemJGg_RwVFX0E0/edit?slide=id.g376bf539199_0_275#slide=id.g376bf539199_0_275)]
 - **16:00-16:30:** Team Workshop 준비물 안내 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1wNnqsVDUmxW-aY-bU4tpU7pRfE5fgob-Vf3jfVAVhv8/edit?slide=id.g37685376f66_0_16#slide=id.g37685376f66_0_16)]
 - **16:30-17:30:** 문제 정의 / 문제 해결 프로세스 (황성현) [[구글 슬라이드](https://docs.google.com/presentation/d/1ZngcQO8pznvsGBf2FupxaA29ed3Q6nEt/edit?slide=id.p1#slide=id.p1)]
 
