@@ -24,7 +24,7 @@
 #### 8월 21일 (목)
 
 - **10:00-10:30:** 학장님 환영사 (장대익) [[PDF](https://drive.google.com/file/d/1mZx97r3tEmcOEtUoSWZHpibB9mk9TvF7/view?usp=drive_link)]
-- **10:30-11:00:** OT / 교원 및 과목 소개 (교수진/행정실)
+- **10:30-11:00:** OT / 교원 및 과목 소개 (교수진/행정실) [[구글 슬라이드](https://docs.google.com/presentation/d/1Gj6BwvvwGqoXxQcLwY8Vtew7jh3txWvIIXS5_AStDdY/edit?usp=drive_link)]
 - **11:00-12:00:** 7기 자기 소개 [[구글 슬라이드](https://docs.google.com/presentation/d/1ZPaufqBEWVzl0gvq6qzKFB9ZOp3rZ6jG/edit?slide=id.p3#slide=id.p3)]
 - **12:00-13:30:** 점심 식사 (Pizza 파티) - _학교에서 제공_
 - **13:30-14:30:** 가설 수립 및 검증 (이민섭)
