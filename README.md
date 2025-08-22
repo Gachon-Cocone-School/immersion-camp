@@ -30,14 +30,15 @@
 - **13:30-14:30:** 가설 수립 및 검증 (이민섭) [[구글 슬라이드](https://docs.google.com/presentation/d/1XFAh5w2hKcPdkZvLfHsLNLZ4D9W5Et6R3BiXxtY0ckE/edit?usp=drive_link)]
 - **14:30-16:00:** 사회적 가치 페스타 및 Social Transformation / 개인SNS(링크드인) 활용법 (홍원준) [[구글 슬라이드](https://docs.google.com/presentation/d/1elhl0_wx29LtD63dSubwuu2yLAcguemJGg_RwVFX0E0/edit?slide=id.g376bf539199_0_275#slide=id.g376bf539199_0_275)]
 - **16:00-16:30:** Team Workshop 준비물 안내 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1wNnqsVDUmxW-aY-bU4tpU7pRfE5fgob-Vf3jfVAVhv8/edit?slide=id.g37685376f66_0_16#slide=id.g37685376f66_0_16)]
-- **16:30-17:30:** 문제 정의 / 문제 해결 프로세스 (황성현) [[구글 슬라이드](https://docs.google.com/presentation/d/1ZngcQO8pznvsGBf2FupxaA29ed3Q6nEt/edit?slide=id.p1#slide=id.p1)]
+- **16:30-17:00:** GCS 일하는 방식 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1XaBPRkB-lNklN6bpCbXaVxt5G1APhh2xh9B--ELOQS4/edit?slide=id.g3768ef1e231_0_0#slide=id.g3768ef1e231_0_0)]
+
 
 #### 8월 22일 (금)
 
 - **10:00-12:00:** Team Workshop #1 - 문제 탐색/정의/솔루션 실습 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1T6NsJwjRQLeRmbkDbQx7Hyzf4RadapyBt31I5_V4iAg/edit?slide=id.g33f59b1cc15_0_0#slide=id.g33f59b1cc15_0_0)]
 - **12:00-13:00:** 점심 식사 (도시락) - _학교에서 제공_
-- **13:00-13:30:** GCS 일하는 방식 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1XaBPRkB-lNklN6bpCbXaVxt5G1APhh2xh9B--ELOQS4/edit?slide=id.g3768ef1e231_0_0#slide=id.g3768ef1e231_0_0)]
-- **13:30-15:30:** Team Workshop #2 - 가설 검증 계획 실습 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/135Gl3KwQUPMCaRYCWLeHfOKJpUrwN3JUuRno4h02faE/edit?slide=id.g33f59b1cc15_0_0#slide=id.g33f59b1cc15_0_0)]
+- **13:00-14:00:** 문제 정의 / 문제 해결 프로세스 (황성현) [[구글 슬라이드](https://docs.google.com/presentation/d/1ZngcQO8pznvsGBf2FupxaA29ed3Q6nEt/edit?slide=id.p1#slide=id.p1)]
+- **14:00-15:30:** Team Workshop #2 - 가설 검증 계획 실습 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/135Gl3KwQUPMCaRYCWLeHfOKJpUrwN3JUuRno4h02faE/edit?slide=id.g33f59b1cc15_0_0#slide=id.g33f59b1cc15_0_0)]
 - **15:30-17:00:** GCS 선배와의 대화 (큐닷, 마히, 북블라, 제타스코프)
 - **17:00-17:30:** 기업가 정신 / Wrap-up (최재홍)
 
