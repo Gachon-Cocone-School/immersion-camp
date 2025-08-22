@@ -39,7 +39,7 @@
 - **12:00-13:00:** 점심 식사 (도시락) - _학교에서 제공_
 - **13:00-14:00:** 문제 정의 / 문제 해결 프로세스 (황성현) [[구글 슬라이드](https://docs.google.com/presentation/d/1ZngcQO8pznvsGBf2FupxaA29ed3Q6nEt/edit?slide=id.p1#slide=id.p1)]
 - **14:00-15:30:** Team Workshop #2 - 가설 검증 계획 실습 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/135Gl3KwQUPMCaRYCWLeHfOKJpUrwN3JUuRno4h02faE/edit?slide=id.g33f59b1cc15_0_0#slide=id.g33f59b1cc15_0_0)]
-- **15:30-17:00:** GCS 선배와의 대화 (큐닷, 마히, 북블라, 제타스코프)
+- **15:30-17:00:** GCS 선배와의 대화 (큐닷, 마히, 북블라, 제타스코프) [[큐닷](https://drive.google.com/file/d/1Yvkz2x5lrAfhSCXIrnP-F_pFjD5Mc4sW/view?usp=drive_link)], [[마히](https://docs.google.com/presentation/d/13uVjyLHVeoY7pGN98eDQkZoPS1UkdjSV/edit?usp=drive_link&ouid=108619357252881607927&rtpof=true&sd=true)], [[북블라](https://drive.google.com/file/d/1wx99yKJJSkIKe8EplFBVlyDok7KWb3yr/view?usp=drive_link)]
 - **17:00-17:30:** 기업가 정신 / Wrap-up (최재홍)
 
 ### 온보딩 캠프 일정
