@@ -49,12 +49,12 @@
 - **09:00-13:00:** 사회적 가치 페스타 과제 발표 / 개인 발표 (인당 5분)
 - **13:00-14:00:** 점심 식사
 - **14:00-16:00:** 스타트업 인사/조직 / 개인 성향 및 팀 빌딩 (KAI / MBTI 등) (황성현)
-- **16:00-18:00:** [창업 기회 탐색 특강] 기후 분야 (서울대학교 정수종 교수)
+- **16:00-18:00:** [창업 기회 탐색 특강] 기후 분야 (서울대학교 정수종 교수) [[PDF](https://drive.google.com/file/d/1HflDdJkICGNakO6uDcfIZtkpKSLi5gMt/view?usp=drive_link)]
 
 #### 9월 2일 (화)
 
 - **09:00-10:30:** 인간본성의 과학적 이해 (이민섭)
-- **10:30-11:30:** 기업가 정신 / GCS 철학 (장대익) [[구글 슬라이드](https://drive.google.com/file/d/1E0ZV-VKtL4FBIFpF6zAtGCxtbqViWOif/view?usp=drive_link)]
+- **10:30-11:30:** 기업가 정신 / GCS 철학 (장대익) [[PDF](https://drive.google.com/file/d/1E0ZV-VKtL4FBIFpF6zAtGCxtbqViWOif/view?usp=drive_link)]
 - **11:30-13:00:** 점심 식사
 - **13:00-17:00:** 팀 과제 발표 연습 / 팀 구성 Peer 평가 (김남주)
 
