@@ -56,7 +56,7 @@
 - **09:00-10:30:** 인간본성의 과학적 이해 (이민섭)
 - **10:30-11:30:** 기업가 정신 / GCS 철학 (장대익) [[PDF](https://drive.google.com/file/d/1E0ZV-VKtL4FBIFpF6zAtGCxtbqViWOif/view?usp=drive_link)]
 - **11:30-13:00:** 점심 식사
-- **13:00-17:00:** 팀 주제 발표 연습 (김남주)
+- **13:00-17:00:** 팀 주제 발표 연습 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/16FAmHnDFkKontn1BCDvpFHKEh7JgRp4BFfFSS58WzDM/edit?slide=id.g33f59b1cc15_0_56#slide=id.g33f59b1cc15_0_56)]
 
 #### 9월 3일 (수)
 
