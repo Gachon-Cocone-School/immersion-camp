@@ -30,7 +30,7 @@
 - **13:30-14:30:** 가설 수립 및 검증 (이민섭) [[구글 슬라이드](https://docs.google.com/presentation/d/1XFAh5w2hKcPdkZvLfHsLNLZ4D9W5Et6R3BiXxtY0ckE/edit?usp=drive_link)]
 - **14:30-16:00:** 사회적 가치 페스타 및 Social Transformation / 개인SNS(링크드인) 활용법 (홍원준) [[구글 슬라이드](https://docs.google.com/presentation/d/1elhl0_wx29LtD63dSubwuu2yLAcguemJGg_RwVFX0E0/edit?slide=id.g376bf539199_0_275#slide=id.g376bf539199_0_275)]
 - **16:00-16:30:** Team Workshop 준비물 안내 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1wNnqsVDUmxW-aY-bU4tpU7pRfE5fgob-Vf3jfVAVhv8/edit?slide=id.g37685376f66_0_16#slide=id.g37685376f66_0_16)]
-- **16:30-17:00:** GCS 일하는 방식 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1XaBPRkB-lNklN6bpCbXaVxt5G1APhh2xh9B--ELOQS4/edit?slide=id.g3768ef1e231_0_0#slide=id.g3768ef1e231_0_0)]
+- **16:30-17:00:** GCS 일하는 방식 - 캘린더 중심 (김남주) [[구글 슬라이드](https://docs.google.com/presentation/d/1XaBPRkB-lNklN6bpCbXaVxt5G1APhh2xh9B--ELOQS4/edit?slide=id.g3768ef1e231_0_0#slide=id.g3768ef1e231_0_0)]
 
 
 #### 8월 22일 (금)
@@ -71,6 +71,10 @@
 - **12:00-13:00:** 점심 식사
 - **13:00-14:00:** 개인별 주제 발표 최종 점검
 - **14:00-16:30:** 개인별 주제 발표 (인당 3분 발표 + 2분 질의응답)
+
+#### 9월 5일 (금)
+- **09:00-12:00:** GCS 일하는 방식 - 기록 중심 (황성현) (교수진) & 개인별 주제 발표 랩업(교수진) & 과제 안내 [[구글 슬라이드](https://docs.google.com/presentation/d/1q059fMe-bDv20OI1PHaWsZqPSAkaHO2v004ecDh8shM/edit?slide=id.g37be92fee45_0_16#slide=id.g37be92fee45_0_16)]
+
 
 ---
 
