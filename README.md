@@ -70,14 +70,14 @@
 - **09:00-12:00:** 개인별 주제 발표 준비 + 멘토링 (교수진)
 - **12:00-13:00:** 점심 식사
 - **13:00-14:00:** 개인별 주제 발표 최종 점검
-- **14:00-16:30:** 개인별 주제 발표 (인당 3분 발표 + 2분 질의응답)
+- **14:00-17:30:** 개인별 주제 발표 (인당 3분 발표 + 2분 질의응답)
 
 #### 9월 5일 (금)
 - **09:00-10:30:** GCS 일하는 방식 - 기록 중심 (황성현) (교수진) & 개인별 주제 발표 랩업(교수진) & 과제 안내 [[구글 슬라이드](https://docs.google.com/presentation/d/1q059fMe-bDv20OI1PHaWsZqPSAkaHO2v004ecDh8shM/edit?slide=id.g37be92fee45_0_16#slide=id.g37be92fee45_0_16)]
 - **10:30-12:00:** 개인 면담
 
 ### 9월 11일 (목)
-- **14:00-16:30:** 개인별 주제 발표 - 린캔버스 ( 32강 토너먼트 대회 ) [[구글 슬라이드](https://docs.google.com/presentation/d/1j1YY4u8uF25892v8MlWFz85ouxevhErrCgM_B3NzbHI/edit?slide=id.g37ceb218ddd_0_224#slide=id.g37ceb218ddd_0_224)]
+- **14:00-17:00:** 개인별 주제 발표 - 린캔버스 ( 32강 토너먼트 대회 ) [[구글 슬라이드](https://docs.google.com/presentation/d/1j1YY4u8uF25892v8MlWFz85ouxevhErrCgM_B3NzbHI/edit?slide=id.g37ceb218ddd_0_224#slide=id.g37ceb218ddd_0_224)]
 
 
 ---
